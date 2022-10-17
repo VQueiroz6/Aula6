@@ -1,0 +1,42 @@
+body{
+    font-family:Silkscreen;
+}
+
+.d1{
+    display: flex;
+    background-color: crimson;
+    justify-content: center;
+}
+.d2{
+    display: flex;
+    justify-content: start;
+}
+.d3{
+    display: flex;
+    justify-content: space-between;
+}
+.d4{
+    background-color: crimson;
+    padding: 8px;
+    margin: 10px;
+}
+.cor5{
+    background-color: crimson;
+    padding: 8px;
+    margin: 10px;
+}
+.cor6{
+    background-color: crimson;
+    padding: 8px;
+    margin: 10px;
+}
+.cor7{
+    background-color: crimson;
+    padding: 8px;
+    margin: 10px;
+}
+.cor8{
+    background-color: crimson;
+    padding: 8px;
+    margin: 10px;
+}
